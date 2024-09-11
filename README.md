@@ -1,4 +1,4 @@
-@@ -1,16 +1,23 @@ 
+
 ## Olá, me chamo Agnes Ribeiro</h1>
 Amo o mundo tecnológico e seus desafios
 👨‍💻 Estudante de Analise e desenvolvimento de sistemas
